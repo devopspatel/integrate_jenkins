@@ -1,3 +1,1 @@
-#integrate_jenkins
-whoami
-ifconfig
+>>> echo "HelloWorld"
